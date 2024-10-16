@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "6282211641941",
+      "password": "dafftzy"
+    },
+    {
+      "whatsappNumber": "6282211641941",
+      "password": "777"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "6282211641941",
+      "token": "dafftzy777"
+    },
+    {
+      "whatsappNumber": "083846147781",
+      "token": "dafftzy777"
+    }
+  ]
+}
